@@ -1,0 +1,60 @@
+.img-rounded {
+    height: 100%;
+    width: 100%;
+}
+.pic{
+    float: right;
+    width: 320px;
+    height: 350px; 
+}
+.gitHubLink{
+    width: 50px;
+}
+a:hover {
+	color: rgb(10, 10, 10);
+	font-style: italic;
+}
+.nav-link{
+    font-size: 22px;
+    color: #fff;
+}
+footer {
+	background-color:transparent;
+	color: #fff;
+	font-family: "Playfair Display SC", Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 12px;
+    height: 70px;
+    position: fixed;
+    width: 100%
+}   
+.container {
+	background-color: transparent;
+	border-radius: 4px;
+	margin-bottom: 50px auto;
+} 
+a.projectLinks {
+    color: white;
+}
+.text-center{
+    size: 22px;
+    padding: 1%;
+}
+  
+body {
+	background-color: transparent;
+	background-image: img("assets\background.png");
+}
+.bg {
+	width: 80%;
+	margin: 40px auto;
+	margin-top: -30px;
+}
+.contact{
+    color: yellow;
+}
+p{
+    color: white;
+}
+.card{
+    background-color: transparent;
+}
